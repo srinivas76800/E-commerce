@@ -1,16 +1,17 @@
 # My E-Commerce Website 🛒  
 
-A modern e-commerce website built with Next.js, Tailwind CSS, and Firebase.  
+A modern e-commerce website built with Next.js, Tailwind CSS,for carts i used boostrap and Firebase.  
 
 ## ✨ Features  
 ✅ User authentication (login/signup)  
-✅ Add to cart & checkout  
+✅ Add to cart, remove form cart & checkout  
 ✅ Responsive design  
-✅ Deployed on Vercel  
+✅ Wishlist
 
 ## 🚀 Tech Stack  
 - Next.js  
-- Tailwind CSS  
+- Tailwind CSS
+- Boostrap
 - Firebase  
 
 ## 🛠 Installation  
