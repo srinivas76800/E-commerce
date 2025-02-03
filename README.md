@@ -13,9 +13,6 @@ A modern e-commerce website built with Next.js, Tailwind CSS, and Firebase.
 - Tailwind CSS  
 - Firebase  
 
-## 🔗 Live Demo  
-[View Here](your-live-demo-link)  
-
 ## 🛠 Installation  
 ```bash
 git clone https://github.com/your-username/your-repo.git  
